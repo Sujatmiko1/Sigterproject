@@ -431,3 +431,65 @@ header {
     font-size: 0.9em; 
     color: #aaa; 
 }
+
+/* --- KODE CSS UNTUK TAMPILAN MOBILE RESPONSIVE --- */
+
+/* Terapkan gaya ini untuk layar dengan lebar maksimal 768px (ukuran tablet dan handphone) */
+@media (max-width: 768px) {
+
+  /* 1. Mengubah Layout Utama dari Menyamping ke Vertikal */
+  .map-container {
+    flex-direction: column; /* Mengubah susunan dari horizontal ke vertikal */
+    height: auto;           /* Biarkan tinggi container menyesuaikan isi */
+  }
+
+  /* 2. Menyesuaikan Sidebar */
+  .sidebar {
+    width: 100%;            /* Sidebar memenuhi lebar layar */
+    height: auto;           /* Tinggi sidebar menyesuaikan isinya */
+    border-right: none;     /* Hapus garis batas di kanan */
+    border-bottom: 1px solid #eaeaea; /* Tambahkan garis batas di bawah */
+    max-height: 50vh;       /* Batasi tinggi sidebar agar tidak terlalu dominan, bisa di-scroll */
+  }
+
+  /* 3. Menyesuaikan Peta */
+  #map {
+    height: 60vh; /* Beri peta tinggi yang pasti, misal 60% dari tinggi layar viewport */
+  }
+  
+  /* 4. Menyesuaikan Header agar lebih rapi */
+  header {
+    flex-direction: column; /* Susun logo dan navigasi secara vertikal */
+    gap: 15px;
+    padding: 15px;
+  }
+  
+  .nav-links {
+    gap: 10px; /* Kurangi jarak antar menu navigasi */
+    justify-content: center;
+    width: 100%;
+  }
+  
+  /* 5. Menyesuaikan layout Visi & Misi di halaman 'About' */
+  .vision-mission-container {
+      flex-direction: column; /* Susun Visi dan Misi secara vertikal */
+      align-items: center;
+      gap: 40px;
+  }
+  
+  .vision, .mission {
+      text-align: center; /* Pusatkan teks Visi dan Misi */
+      align-self: center;
+  }
+}
+
+/* Aturan tambahan untuk layar handphone yang sangat kecil */
+@media (max-width: 480px) {
+    .text-content h1 {
+        font-size: 2em; /* Perkecil ukuran judul utama di layar sangat kecil */
+    }
+    
+    .nav-item a {
+        padding: 8px 10px; /* Perkecil sedikit tombol navigasi */
+    }
+}
