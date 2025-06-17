@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     updateLayersControl();
 
-    fetch('peta/jogjakarta.geojson')
+    fetch('Peta/jogjakarta.geojson')
       .then(response => response.json())
       .then(data => {
           jogjaLayer = L.geoJSON(data, {
