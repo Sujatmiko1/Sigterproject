@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Arah Kampus</title>
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+     
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <img src="Assets/arah kampus.png" alt="Arah Kampus Logo" class="logo-img">
+      Arah<span>Kampus</span>
+    </div>
+    <nav>
+      <ul class="nav-links">
+        <li id="nav-home" class="nav-item active"><a>Home</a></li>
+        <li id="nav-maps" class="nav-item"><a>Maps</a></li>
+        <li id="nav-about" class="nav-item"><a>About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="home-content">
+    <section class="hero">
+      <div class="text-content">
+        <h1>Temukan Arah Menuju Kampus Impian Anda</h1>
+        <p>Jelajahi lokasi berbagai perguruan tinggi di Yogyakarta dengan Arah Kampus, temukan rute tercepat, dan dapatkan informasi lengkap dalam satu platform.</p>
+        <button class="cta-button">LIHAT PETA</button>
+      </div>
+    </section>
+  </main>
+  
+  <main id="map-content" class="hidden">
+    <div class="map-container">
+      <aside class="sidebar">
+        <h2>Filter Peta</h2>
+        <div class="filter-group">
+          <h3>Tipe Perguruan Tinggi</h3>
+          <select id="type-filter-select" class="custom-select">
+            <option value="all">Semua Tipe</option>
+            <option value="negeri">Perguruan Tinggi Negeri (PTN)</option>
+            <option value="swasta">Perguruan Tinggi Swasta (PTS)</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <h3>Pilih Perguruan Tinggi</h3>
+          <select id="university-select" class="custom-select">
+            <option value="">--Pilih dari Peta--</option>
+          </select>
+        </div>
+        <div class="filter-group">
+            <h3>Jangkauan Buffer</h3>
+            <input type="range" id="buffer-slider" min="0" max="5" step="0.1" value="0">
+            <span id="buffer-value">0 km</span>
+        </div>
+        <div class="filter-group">
+            <h3>Navigasi</h3>
+            <button id="route-button" class="sidebar-button">Tampilkan Rute Tercepat</button>
+        </div>
+        
+        <div id="university-info" class="filter-group hidden">
+            <h3 id="info-title">Informasi Kampus</h3>
+            <img id="info-photo" src="" alt="Foto Kampus">
+            <div id="info-details">
+                <p><strong>Alamat:</strong> <span id="info-address"></span></p>
+                <p><strong>Telp:</strong> <span id="info-telp"></span></p>
+                <p><strong>Website:</strong> <a id="info-website" href="#" target="_blank" rel="noopener noreferrer"></a></p>
+                <p><strong>Deskripsi:</strong> <span id="info-deskripsi"></span></p>
+            </div>
+        </div>
+      </aside>
+      <div id="map"></div>
+
+      <div id="geojson-control-panel" class="hidden">
+          <h3 class="control-panel-title">Opasitas</h3>
+          <input type="range" id="geojson-opacity-slider" min="0" max="1" step="0.1" value="0.5">
+          <span id="geojson-opacity-value">0.5</span>
+          
+          <h3 class="control-panel-title">Warna</h3>
+          <input type="range" id="geojson-color-slider" min="0" max="360" value="30">
+      </div>
+    </div>
+  </main>
+
+  <main id="about-content" class="hidden">
+    <section class="about-section about-intro">
+        <div class="about-intro-container">
+            <p class="about-text">
+                ArahKampus dirancang sebagai sarana eksplorasi spasial untuk membantu pengguna menemukan lokasi kampus-kampus di Yogyakarta secara visual, mudah, dan interaktif. Dengan memanfaatkan teknologi pemetaan berbasis web, website ini menyajikan data geospasial yang dapat diakses guna mendukung kebutuhan informasi pendidikan di yogyakarta.
+            </p>
+            <div class="vision-mission-container">
+                <div class="vision">
+                    <h3>Visi</h3>
+                    <p>Menjadi platform informasi spasial secara akurat, interaktif, dan mudah diakses oleh seluruh masyarakat, khususnya calon mahasiswa yang ingin mengenal lebih dekat kampus-kampus di Yogyakarta.</p>
+                </div>
+                <div class="mission">
+                    <h3>Misi</h3>
+                    <p>Misi kami adalah mengembangkan teknologi pemetaan yang terbuka, inklusif, dan mendukung pengambilan keputusan berbasis lokasi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about-section about-team team-info">
+        <h2>Tim Kami</h2>
+        <p><strong>Sujatmiko Nugroho Jati</strong><br>Pengembang, Desainer UI, Manajer Data</p>
+        <p><strong>Vira Ananda Syakina</strong><br>Pengumpulan Data, Desainer UI</p>
+        <p><strong>Lu’lu’ Afini Pamor</strong><br>Pengumpulan Data, Desainer UI</p>
+    </section>
+    
+    <footer class="about-footer">
+        <p><a href="http://www.geomatika.upnyk.ac.id" target="_blank">www.geomatika.upnyk.ac.id</a></p>
+        
+        <div class="footer-main-content">
+            <div class="contact-details">
+                <p class="contact-item">
+                    <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" alt="Lokasi" class="contact-icon">
+                    <span>Jalan Padjajaran No. 104, Condongcatur, Depok, Daerah Istimewa Yogyakarta, Indonesia</span>
+                </p>
+                <p class="contact-item">
+                    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Email" class="contact-icon">
+                    <span>teknikgeomatika@upnyk.ac.id</span>
+                </p>
+                <p class="contact-item">
+                    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" alt="Instagram" class="contact-icon">
+                    <span>@geomatikaupnvy</span>
+                </p>
+            </div>
+            <div class="footer-logos">
+                <img src="Assets/LOGO PRODI.png" alt="Logo Prodi Geomatika" class="footer-logo-img">
+                <img src="Assets/logo upn.png" alt="Logo UPN Veteran Yogyakarta" class="footer-logo-img">
+            </div>
+        </div>
+
+        <div class="copyright-section">
+            <hr class="footer-line">
+            <p class="copyright-text">&copy; Geomatikaupnvy 2025</p>
+        </div>
+    </footer>
+  </main>
+
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+     
+  <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.min.js"></script>
+     
+  <script src="script.js"></script>
+</body>
+</html>
