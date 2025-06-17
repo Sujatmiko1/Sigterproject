@@ -1,0 +1,651 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+        "foto": "https://four.upnyk.ac.id/public/assets/berita/gedung_upn_1_R.jpg",
+        "alamat": "Jl. Padjajaran Jl. Ring Road Utara No.104 Ngropoh, Condong Catur Depok Sleman Regency, Special Region of Yogyakarta 55283",
+        "telp": "(0274) 486733",
+        "website": "upnyk.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Universitas Pembangunan Nasional \"Veteran\" Yogyakarta atau biasa disingkat UPNYK, merupakan salah satu Perguruan Tinggi Negeri (PTN) di Indonesia yang berlokasi di Daerah Istimewa Yogyakarta.  Pada saat didirikan, UPN \"Veteran\" Yogyakarta hanya memiliki 3 jurusan.  Kini UPN \"Veteran\" Yogyakarta memiliki 5 fakultas yang terdiri dari 1 program studi untuk D-3, 21 program studi untuk S-1, 11 program studi untuk S-2, serta 1 program studi untuk S-3.  Melalui deretan program studi tersebut, UPNYK berkomitmen untuk mewujudkan pendidikan berkualitas dalam ilmu pengetahuan, teknologi, dan bisnis.  Dengan fokus pada inovasi, penelitian, dan pengabdian masyarakat, UPNYK mendorong pengembangan potensi individu, serta memberikan kontribusi positif bagi kemajuan Indonesia melalui semangat bela negara. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4092893177,
+          -7.7620350636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akademi Manajemen Informatika dan Komputer",
+        "foto": "https://i0.wp.com/english.amikom.ac.id/wp-content/uploads/images.jpg?w=305&ssl=1",
+        "alamat": "Jl. Ring Road Utara Ngringin, Condong Catur Depok Sleman Regency, Special Region of Yogyakarta 55281",
+        "telp": "(0274) 884201",
+        "website": "amikom.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Amikom Yogyakarta merupakan perubahan dari Sekolah Tinggi Manajemen Informatika dan Komputer Amikom Yogyakarta.  Sebelumnya Sekolah Tinggi Manajemen Informatika dan Komputer Amikom Yogyakarta, merupakan perubahan dari Akademi Manajemen Informatika dan Komputer Amikom Yogyakarta yang mendapatkan status terdaftar berdasarkan Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia No. 084/D/O/1994 tanggal 11 Oktober 1994.  Perubahan bentuk ini dilakukan untuk mempermudah mencapai visinya sebagai perguruan tinggi unggulan dunia dalam bidang ekonomi kreatif berbasis entrepreneurship yang menebar kebajikan. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4089948808,
+          -7.7598291378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Negeri Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/p/AF1QipOHjBKPKoIOQpbOE3oDehLH8bb14iXxn6v7Buwo=w426-h240-k-no",
+        "alamat": "Jl. Colombo No.1 Karang Malang, Caturtunggal Depok Sleman Regency, Special Region of Yogyakarta 5528",
+        "telp": "(0274) 586168",
+        "website": "uny.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Universitas Negeri Yogyakarta (UNY) merupakan perguruan tinggi yang berakar dari IKIP Yogyakarta, yang berdiri pada 21 Mei 1964 sebagai institusi pendidikan guru terkemuka.  Bertransformasi dari Fakultas Pedagogik UGM, UNY telah berkembang pesat menjadi universitas unggulan dengan berbagai program studi kependidikan dan non-kependidikan.  Sejak resmi menjadi PTNBH pada tahun 2022, UNY terus memperkuat komitmennya dalam mencetak tenaga pendidik profesional, mengembangkan riset, dan membangun jaringan global demi mewujudkan visi sebagai universitas kelas dunia. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3875686258,
+          -7.7753822002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UIN Sunan Kalijaga Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPQDPcoZPrVfJ8FIR1QnjiC8mo_dPVALrNoAOASswC-tFXw0AL91hmzS-xU6xx2R2eLZq6n8ZsZLCtg0mhivNUACI7z9y1SpuOO2_uMB0ogdmgJpvcnYNi6M2fOCDcSX04qlY0=w408-h306-k-no",
+        "alamat": "Jl. Laksda Adisucipto Papringan, Caturtunggal Depok Sleman Regency, Special Region of Yogyakarta 55281",
+        "telp": "(0274) 512474",
+        "website": "uin-suka.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "UIN Sunan Kalijaga Yogyakarta adalah perguruan tinggi Islam negeri tertua di Indonesia yang telah mengalami transformasi signifikan sejak berdirinya sebagai PTAIN pada tahun 1950.  Seiring waktu, kampus ini berkembang menjadi IAIN dan akhirnya bertransformasi menjadi Universitas Islam Negeri (UIN) pada tahun 2004.  Dengan mengusung paradigma integrasi-interkoneksi antara ilmu agama dan ilmu umum, UIN Sunan Kalijaga terus membangun reputasi sebagai institusi pendidikan tinggi unggulan dalam kajian keislaman dan ilmu multidisipliner.  Melalui kepemimpinan yang visioner dan komitmen pada mutu akademik, kampus ini bertekad menjadi World Class University yang berkontribusi bagi bangsa dan peradaban dunia. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3943183255,
+          -7.7847277133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poltekkes Kemenkes Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZ2nDnG8XWv1bQh25hjQQkFHhKaWLNM6pU8AYplUaqbGvDONE0Kdm4aE1Z3xfFMaCXGUiaZBRNkbIOOk7f8UDZxZcQRTPwhsIp7PhLoVZtCA0w5yQKM5ODi0gUVrM83CTUJeo=w408-h314-k-no",
+        "alamat": "Jl. Tata Bumi No.3 Area Sawah, Banyuraden Kec. Gamping Kabupaten Sleman, Daerah Istimewa Yogyakarta 55293",
+        "telp": "(0274) 617601",
+        "website": "poltekkesjogja.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Politeknik Kesehatan Kemenkes Yogyakarta (Poltekkes Kemenkes Yogyakarta) merupakan institusi pendidikan tinggi vokasi di bawah Kementerian Kesehatan yang dibentuk pada tahun 2001 melalui penggabungan enam akademi kesehatan di Yogyakarta.  Seiring perkembangan, institusi ini terus berkembang dengan menawarkan berbagai program studi Diploma Tiga, Sarjana Terapan, dan Pendidikan Profesi di bidang kesehatan.  Sejak 2012, Poltekkes ini berada di bawah pembinaan akademik Kemendikbud, dan telah menerapkan sistem keuangan Badan Layanan Umum (BLU) untuk meningkatkan kualitas layanan pendidikan.  Inovasi terus dilakukan, termasuk pembukaan program studi baru seperti RMIK pada tahun 2020. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3432979233,
+          -7.7812201033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institut Seni Indonesia Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqueO4BDHYA-UYTIGbwR4vRYphLJYdG0KOp1_d3yPvmwbG1_3z_pc7CJCLoq9-ErOpj7aBobX2UTlGe1u2VkUFKyveIJNts0RIwIUybWKNdjSPL7756xEtenPMJeswL7Crk4XV=w408-h306-k-no",
+        "alamat": "Jl. Parangtritis Km. 6,5 Glondong, Panggungharjo Sewon Bantul Regency, Special Region of Yogyakarta 55188",
+        "telp": "(0274) 379133",
+        "website": "isi.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Institut Seni Indonesia (ISI) Yogyakarta adalah perguruan tinggi negeri yang fokus pada pendidikan seni, resmi berdiri pada 23 Juli 1984.  Meskipun sebagai institut terbilang muda, ISI Yogyakarta merupakan hasil penggabungan tiga lembaga seni ternama ASRI, AMI, dan ASTI yang telah lama berkontribusi dalam perkembangan seni Indonesia.  Kampus ini dikenal sebagai tempat lahirnya seniman dan profesional seni yang berkiprah di berbagai bidang, baik di dalam maupun luar negeri. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3561182932,
+          -7.8512729187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Tinggi Multi Media (MMTC)",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nri3iqPBbzH7YMzgnjSGqUYXSt1XGP8-JMxvJupKb1Y6AcgVCqc__eighDOiuFeIHD7hoE89UsSdREEHMFfs5sQG1TnRRjH3IXfCQQBo0d_N004KeycyOSQFZz6tgk0xnMkQt52=w426-h240-k-no",
+        "alamat": "Jl. Magelang No.6 Kutu Patran, Sinduadi Kutu Patran, Sinduadi Mlati Sleman Regency, Special Region of Yogyakarta 55284",
+        "telp": "(0274) 562513",
+        "website": "mmtc.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Sekolah Tinggi Multi Media “MMTC” Yogyakarta (STMM “MMTC”) adalah perguruan tinggi negeri di bawah Kementerian Komunikasi dan Informatika RI yang berfokus pada bidang penyiaran dan multimedia.  Didirikan sejak 1985, STMM telah berkembang menjadi institusi pendidikan tinggi yang menyelenggarakan program Diploma IV dan Strata I dalam bidang Penyiaran, Animasi dan Desain Teknologi Permainan, serta Komunikasi Informasi Publik.  Dengan visi menjadi pusat pendidikan tinggi multimedia terbaik di Indonesia dan bertaraf internasional, STMM terus menjalin kerja sama dengan berbagai pihak serta melibatkan tokoh-tokoh nasional dalam pengembangan kualitas pendidikan dan tridharma perguruan tinggi. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3613929638,
+          -7.7513982011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Tinggi Teknologi Nuklir (BATAN)",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqmae7VEAqwmegRkQrAbAyIqod7fQfSDXWEvSZ8Ki8EQ9HP1INZGjCI1A90-M1r5j0QqFuopjYFWaV75WiLlTsXeujMc1R_IQVyfxiD5dpzrik6XGmEwm4kNxQrVHrAMeRlTDGV=w408-h306-k-no",
+        "alamat": "Jl. Babarsari Kotak POB 6101/YKKB Ngentak, Caturtunggal Kec. Depok Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "telp": "(0274) 484085",
+        "website": "polteknuklir.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Politeknik Teknologi Nuklir Indonesia (Poltek Nuklir) adalah perguruan tinggi vokasi di bawah Badan Riset dan Inovasi Nasional (BRIN) yang fokus pada pendidikan dan pengembangan sumber daya manusia di bidang teknologi nuklir.  Didirikan pada tahun 1985 dengan nama Pendidikan Ahli Teknik Nuklir (PATN), kampus ini telah mengalami beberapa transformasi kelembagaan hingga resmi menjadi Poltek Nuklir pada tahun 2021.  Saat ini, Poltek Nuklir menyelenggarakan tiga program studi jenjang Diploma IV, yaitu Teknokimia Nuklir, Elektronika Instrumentasi, dan Elektromekanika, yang menghasilkan lulusan dengan gelar Sarjana Terapan Teknik (STr.T). "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4124653811,
+          -7.7785010249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Tinggi Pertanahan Nasional (STPN)",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqM0iRYpSwBHaNULqKsj4Ntu0WsfuH45LH5k09bjoAPojtMPP0kbk17g2sgj2HLtjpk-2zIWRKoiGSgVcbHUalytEXs3H4KspMT3IUP1BJHWanC_e8jvPLFILE-___5E970pGsb=w408-h306-k-no",
+        "alamat": "Jl. Tata Bumi No.5 Area Sawah, Banyuraden Gamping Sleman Regency, Special Region of Yogyakarta 55293",
+        "telp": "(0274) 587239",
+        "website": "stpn.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Sekolah Tinggi Pertanahan Nasional (STPN) merupakan perguruan tinggi kedinasan di bawah naungan Kementerian Agraria dan Tata Ruang Republik Indonesia yang berlokasi di Sleman, Daerah Istimewa Yogyakarta.  Didirikan sejak tahun 1963 dengan nama awal Akademi Agraria, STPN menjadi satu-satunya institusi pendidikan tinggi di Indonesia yang secara khusus menyelenggarakan pendidikan di bidang pertanahan secara terpadu.  Dengan sejarah panjang dan ribuan alumni yang tersebar di seluruh nusantara, STPN terus mengembangkan keilmuannya sebagai cabang ilmu pertanahan yang mandiri dan strategis bagi pembangunan nasional. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3433291968,
+          -7.7827432993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akademi Angkatan Udara",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npTSbDBUdhQfr2hsslyeMiEgn4MMyVqy1IOCl3dDJJ0JB1AwdvfOKNihA9lTc4m5KlOE8-MMOGQZ50baqg0NhKkuQVY4VRw7dxEmuSFwnRjn6eP6Wx9ZwAxPam6671g6BsWnt43=w408-h543-k-no",
+        "alamat": "Jl. Raya Solo - Yogyakarta, Maredan, Sendangtirto, Kec. Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "telp": "(0274) 486922",
+        "website": "aau.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Akademi Angkatan Udara (AAU) adalah lembaga pendidikan tinggi militer yang mencetak perwira TNI Angkatan Udara profesional dan berkarakter.  Didirikan secara resmi pada 26 Juli 1965, AAU berakar dari sejarah perjuangan bangsa dengan embrio berupa sekolah penerbang sejak 1945 di Maguwo, Yogyakarta.  Dalam perjalanannya, AAU terus berkembang, mengadopsi sistem pendidikan modern termasuk program sarjana terapan pertahanan (S.Tr.Han), serta menjalin kerja sama akademik dengan berbagai perguruan tinggi ternama di Indonesia.  Dengan motto Vidya Karma Vira Pakca, AAU berkomitmen mencetak lulusan yang tangguh dalam ilmu pengetahuan, kepemimpinan, dan pengabdian kepada bangsa. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4354248515,
+          -7.7915800527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UNIVERSITAS AKPRIND",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPrHGmG8iwrFl-8KKVRnUK74hMhNnh9KmcO96ncgyLMkygPevhbljHCkptBoAPVYWCZnHYMcsle2764lSYV_8FlLHBaS0WbRBz6fPT3FW42sHav_Y6i2KZ_BvScXqg2aKUWCpFyA=w426-h240-k-no",
+        "alamat": "Jl. Kalisahak No.28 Klitren Gondokusuman Yogyakarta City, Special Region of Yogyakarta 5522",
+        "telp": "(0274) 563029",
+        "website": "akprind.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas AKPRIND Indonesia merupakan institusi pendidikan tinggi yang berawal dari Akademi Perindustrian yang didirikan pada 12 Mei 1972 di Yogyakarta, atas inisiatif Yayasan Pembina Potensi Pembangunan.  Seiring perkembangan zaman dan kebutuhan industri, institusi ini terus bertransformasi hingga menjadi universitas dengan berbagai fakultas dan program studi di bidang sains, teknologi, dan bisnis.  Dengan moto JNANADHARMA, ilmu untuk pengabdian kepada bangsa, Universitas AKPRIND Indonesia berkomitmen mencetak sumber daya manusia profesional yang berlandaskan Pancasila, berjiwa nasionalis, dan menjunjung tinggi kebebasan akademik. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3857041631,
+          -7.7846849290
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Alma Ata",
+        "foto": "https://lh3.googleusercontent.com/p/AF1QipOhRjruIHABPvFVS8xlLAvmETrH-I1HJ3rEUomE=w408-h272-k-no",
+        "alamat": "Jl. Brawijaya No.99 Jadan, Tamantirto Kasihan Bantul Regency, Special Region of Yogyakarta 55183",
+        "telp": "(0274) 4342288",
+        "website": "almaata.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Alma Ata Yogyakarta didirikan oleh cendekiawan muslim dan ulama pondok pesantren dengan tujuan mempercepat pertumbuhan ilmu pengetahuan dan teknologi di Indonesia.  Terakreditasi Unggul dan menempati peringkat #2 PTS di DIY serta peringkat #31 PTS terbaik se-Indonesia (berdasarkan data UniRank 2023), UAA menawarkan lingkungan akademik modern dan berwawasan global melalui kurikulum Merdeka Belajar, jaringan internasional, serta kesempatan magang bersertifikat di BUMN.  Dengan lima fakultas (Kesehatan, Kedokteran, Tarbiyah & Keguruan, Ekonomi & Bisnis, dan Komputer & Teknik) plus program pascasarjana, kampus ini siap mencetak lulusan profesional berakhlak mulia dan siap bersaing di dunia kerja. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3246296826,
+          -7.8183758094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Aisyiyah Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/p/AF1QipM7ea4za8iZkTnZHlumUw-WyfdmbUWxTDNZMpiJ=w408-h272-k-no",
+        "alamat": "Jl. Siliwangi (Ring Road Barat) No. 63 Nogotirto, Gamping, Sleman, Yogyakarta. 55292",
+        "telp": "(0274) 4469199",
+        "website": "unisayogya.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas ‘Aisyiyah (UNISA) Yogyakarta merupakan institusi pendidikan tinggi yang berakar dari gerakan sosial keagamaan ‘Aisyiyah, bagian dari Muhammadiyah, yang memiliki komitmen kuat dalam mencerdaskan kehidupan bangsa melalui pendidikan.  Berawal dari Sekolah Bidan di tahun 1963, UNISA terus berkembang hingga menjadi universitas pada tahun 2016.  Dengan semangat keilmuan dan nilai-nilai Islami, UNISA kini menawarkan berbagai program studi di bidang kesehatan, sains, sosial, dan humaniora, serta berperan aktif dalam mencetak tenaga profesional yang berintegritas dan berdaya saing global. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3336906999,
+          -7.7683666991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Atma Jaya",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nok35iXCS2PM86y2IhYDd23L4zRp1d0pFZFrkMUfMFNUCQzfRS8K4E_OAYMg7HKQgZQ5-NDq_Hz7jQL2UgChEXA4lg6szG7f-DPNOf69d9iHcchZgqTPqrheCjWVF3xpD8zMtZE=w408-h306-k-no",
+        "alamat": "Mrican, Caturtunggal Kec. Depok Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "telp": "(0274) 487711",
+        "website": "uajy.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Atma Jaya Yogyakarta (UAJY) adalah perguruan tinggi swasta yang berdiri sejak 27 September 1965, dikelola oleh Yayasan Slamet Rijadi di bawah naungan Santo Albertus Magnus.  Dengan semangat Serviens in Lumine Veritatis (melayani dalam terang kebenaran), UAJY berkomitmen menciptakan pendidikan tinggi yang unggul secara akademik dan menjunjung tinggi nilai-nilai moral.  Kampus ini menawarkan berbagai program studi dari jenjang Sarjana hingga Doktoral yang telah terakreditasi nasional maupun internasional.  UAJY juga aktif dalam pengembangan ilmu pengetahuan yang ramah lingkungan, pemberdayaan masyarakat, dan tanggap terhadap isu-isu sosial serta bencana, baik di tingkat nasional maupun global. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3927395511,
+          -7.7760468115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Ahmad Dahlan",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npuGhKkESDkiHcWrJCFoyhQEPS9y7tEl87_GoNFzmRvF4brm9y2uK2Na0TRaWLVLDBoo-jypfuD7cZluy9NJp4o9CMFYgzUAx_w4k1e0AWMMuBV3-psDhBRIHjbIUYR7qLRh-Fb=w426-h240-k-no",
+        "alamat": "Jl. Kapas No.9 Semaki Umbulharjo Yogyakarta City, Special Region of Yogyakarta 55166",
+        "telp": "(0274) 563515",
+        "website": "uad.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Ahmad Dahlan (UAD) merupakan perguruan tinggi swasta di Yogyakarta yang berakar dari FKIP Muhammadiyah dan berkembang menjadi IKIP Muhammadiyah Yogyakarta sebelum resmi bertransformasi menjadi universitas pada tahun 1994.  Sebagai bagian dari jaringan pendidikan Muhammadiyah, UAD telah mengalami perkembangan pesat dalam bidang akademik maupun infrastruktur, dengan berbagai fakultas unggulan dan kampus modern yang tersebar di beberapa lokasi. UAD mengusung visi sebagai universitas berbasis nilai Islam yang unggul dalam pengembangan ilmu pengetahuan, teknologi, dan seni, serta berkomitmen memberikan kontribusi nyata bagi masyarakat. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38308774736409,
+          -7.83313465539942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Cokroaminoto Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-zPMkNxB7wm0MILde8407nktEaNCazPQ2jmTdZyTNlWfgQR5PL7BzSx4MonIJhQ-JaMdKFYzx1CBrG6OfV8w1QLdK8qnrc3uiF5pPCgpU3o9rEhc_50-ZnGC4VJ32pqZV6ZwCzA=w408-h544-k-no",
+        "alamat": "Jl. Perintis Kemerdekaan, Gambiran, Pandeyan, Kec. Umbulharjo, Yogyakarta 55161",
+        "telp": "(0274) 372274",
+        "website": "ucy.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Cokroaminoto Yogyakarta (UCY) adalah perguruan tinggi swasta yang berakar dari Surakarta sejak 1955, lalu secara resmi pindah ke Yogyakarta pada 28 Oktober 1979 di bawah naungan Yayasan Perguruan Tinggi Islam Cokroaminoto Yogyakarta .  Terinspirasi oleh nilai perjuangan H.O.S. Cokroaminoto dan tradisi modern pendidikan Islam, UCY mengusung “trilogi pendidikan” mengutamakan pembangunan nilai religius, penguasaan ilmu & teknologi, serta pengamalan sikap kejujuran dan kehadiran sosial .  Saat ini UCY memiliki lima fakultas Agama Islam, Hukum, Ekonomi, Keguruan & Ilmu Pendidikan, serta Teknik dengan delapan program studi sarjana, dan tetap terbuka bagi mahasiswa dari berbagai latar agama . "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3928701005,
+          -7.8199062002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Islam Indonesia",
+        "foto": "https://www.google.com/maps/place/Universitas+Islam+Indonesia/@-7.6876501,110.4142365,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgIDX-cfB6AE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4npwaPB7EM9LaILPHcG2D5BbRay_N2Iu9lV5E-htEjsh1XjI9AqcDpbXIZozRl2Yhzu3m1yEC4oC78VKSq-2OreWgRofpDIz8dUL4hC9jCB3Rn1cbjV7ySiOwO2wufPwBkUC3RKC%3Dw203-h152-k-no!7i3264!8i2448!4m13!1m5!3m4!2zN8KwNDEnMTQuMSJTIDExMMKwMjQnNTIuNCJF!8m2!3d-7.687237!4d110.4145443!3m6!1s0x2e7a5e970cd4fa51:0xa527d07122b90c40!8m2!3d-7.6876501!4d110.4142365!10e5!16s%2Fm%2F04n340m?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D#",
+        "alamat": "Jl. Kaliurang km. 14,5 Sleman, Yogyakarta 55584 Indonesia",
+        "telp": "(0274) 898444",
+        "website": "uii.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Islam Indonesia (UII), yang berdiri sejak 8 Juli 1945 sebagai Sekolah Tinggi Islam, merupakan salah satu kampus swasta paling awal dan bergengsi di Indonesia, berlokasi di Sleman, Yogyakarta.  Sebagai pionir pendidikan tinggi nasional, UII menekankan integrasi ilmu pengetahuan dan nilai-nilai keislaman, mendidik mahasiswa agar memiliki akhlak mulia, karakter berintegritas, dan jiwa kepemimpinan global .  Kampus ini memiliki akreditasi Institusi Unggul oleh BAN‑PT sejak 2022, menawarkan lingkungan pembelajaran yang mengutamakan kebebasan akademik, keragaman pemikiran, dan kolaborasi internasional dalam penelitian, pengabdian masyarakat, dan dakwah .  Fasilitas unggulan seperti perpustakaan pusat, Masjid Ulil Albab, Rumah Sakit kampus, pusat karier, serta berbagai pusat riset mendukung visi UII sebagai kampus riset dan rahmatan lil 'alamin. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4145443496,
+          -7.6872370331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Islam Mulia Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/p/AF1QipP4rVkpvrhMDsz_s1qcQrbZC9X6iGT1MvkNWOPL=w408-h306-k-no",
+        "alamat": "Jl. Wates No.Km 9, RW.5, Plawonan, Argomulyo, Kec. Sedayu, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55752",
+        "telp": "-",
+        "website": "uim-yogya.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Islam Mulia Yogyakarta, yang berdiri sejak 2024 dari penggabungan Akademi Kebidanan Mulia Madani dan ISTEK Mulia, merupakan perguruan tinggi swasta di Yogyakarta yang berkomitmen mencetak lulusan unggul dan berkarakter Islami holistik.  Mempunyai dua fakultas Sains & Teknologi Kesehatan serta Pendidikan & Humaniora dengan beragam program seperti Informatika, Kebidanan, Psikologi, dan PGSD, UIM menekankan nilai keislaman seperti kejujuran dan integritas dalam setiap aspek pengajaran dan kehidupan kampus.  Fasilitas modern dan pelayanan “One‑Night Service” untuk pendaftaran mahasiswa baru juga menjadi bagian dari strategi mereka membangun kampus yang bermartabat, profesional, dan siap bersaing di tingkat global "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2821973063,
+          -7.8097944233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Jenderal Achmad Yani Yogyakarta (UNJAYA)",
+        "foto": "https://lh3.googleusercontent.com/p/AF1QipMAa8sk8WyY69wUYMO81SGEJWC7TUsRmAO3FXFb=w408-h272-k-no",
+        "alamat": "Jl. Siliwangi, Ringroad Barat, Banyuraden, Gamping, Sleman Daerah Istimewa Yogyakarta 55293",
+        "telp": "(022) 6656190",
+        "website": "unjaya.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Jenderal Achmad Yani Yogyakarta (Unjaya) memiliki Kampus 1 yang terletak di Jl. Siliwangi, Ringroad Barat, Banyuraden, Gamping, Sleman, DIY.  Kampus ini menjadi pusat kegiatan rektorat serta dua fakultas utama: Fakultas Teknik & Teknologi Informasi (FTTI) dan Fakultas Ekonomi & Sosial (FES).  Lingkungannya dirancang mendukung proses Tridharma dengan fasilitas lengkap berupa ruang kuliah ber AC, laboratorium komputasi dan teknologi tinggi, serta ruang CBT semua ini mendukung kegiatan akademik dan prestasi mahasiswa.  Kampus 1 juga menyediakan fasilitas pendukung kehidupan kampus seperti perpustakaan digital dan fisik, area olahraga (voli, basket, badminton), studio seni, masjid, kantin, asrama mahasiswa, ATM center, serta konektivitas Wi‑Fi kecepatan tinggi di seluruh area. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3239563724,
+          -7.8052250202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Kristen Duta Wacana Yogyakarta (UKDW)",
+        "foto": "https://kuliahkelaskaryawan.org/wp-content/uploads/2022/11/Universitas-Kristen-Duta-Wacana-777x437.jpg",
+        "alamat": "Jl. dr. Wahidin Sudirohusodo No. 5-25, Yogyakarta, 55224",
+        "telp": "(0274) 563929",
+        "website": "ukdw.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Kristen Duta Wacana (UKDW) merupakan perguruan tinggi swasta di Yogyakarta yang berdiri pada tahun 1985 sebagai pengembangan dari Sekolah Tinggi Theologia Duta Wacana.  Berakar dari penggabungan institusi teologi sejak 1962, UKDW telah berkembang menjadi universitas Kristen unggulan dengan tujuh fakultas dan berbagai program studi yang diakui secara nasional dan internasional.  UKDW terus menunjukkan komitmennya terhadap pendidikan berkualitas melalui akreditasi unggul, kolaborasi lintas universitas, dan pengembangan infrastruktur, termasuk pembangunan Kampus 2 di Bantul sebagai bagian dari visi strategis jangka panjang. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3782828167,
+          -7.7859508660
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Mercu Buana Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBwlkLCCl6RAP5h0dsH-hWM1MnXZODTZrLLrRwBmj0Oj60IAOIIfRzn9iIhY5WLjIPK-VJtSsDeq82s5EaU8tc82KsYLdBdSgZqZyVN8qd7aQLCIHzWfYuCKlKryEjFytMMl0=w408-h306-k-no",
+        "alamat": "Jl. Wates Km. 10 Yogyakarta 55753",
+        "telp": "(0274) 6498212",
+        "website": "mercubuana-yogya.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Mercu Buana Yogyakarta (UMB Yogya) merupakan perguruan tinggi swasta yang berdiri sejak tahun 1984 dengan nama awal Institut Pertanian Wangsa Manggala (IPW), kemudian menjadi Universitas Wangsa Manggala (UNWAMA) pada 1986, dan resmi berganti nama menjadi UMB Yogya pada 2008.  Di bawah naungan Yayasan Wangsa Manggala, UMB Yogya terus berkembang dengan menambah berbagai program studi unggulan di bidang sains, teknologi, sosial, dan humaniora. Mengusung semboyan Angudi Mulyaning Bangsa (The Pursuit of Excellence), UMB Yogya berkomitmen pada pendidikan berkualitas, penelitian, dan pengabdian kepada masyarakat guna mewujudkan kesejahteraan dan kemajuan bangsa. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2709299449,
+          -7.8084980957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Muhammadiyah Yogyakarta",
+        "foto": "https://muhammadiyah.or.id/wp-content/uploads/2023/07/gedung-UMY.jpg",
+        "alamat": "Jl. Brawijaya, Kasihan, Bantul Yogyakarta 55183",
+        "telp": "(0274) 387656",
+        "website": "umy.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Muhammadiyah Yogyakarta (UMY), didirikan pada 1 Maret 1981, merupakan perguruan tinggi swasta unggulan di Indonesia yang mengusung moto \"Unggul dan Islami\" serta tagline \"Muda Mendunia\".  Berlokasi di kawasan terpadu seluas ±32 hektar di Bantul, Yogyakarta, UMY telah meraih akreditasi tertinggi (“Unggul/A”) dari BAN-PT dan memperoleh peringkat internasional QS Stars untuk kelayakan pengajaran, fasilitas, inklusivitas, tanggung jawab sosial, dan employability .  Kampus ini menawarkan lebih dari 40 program studi mulai dari diploma hingga doktoral, didukung fasilitas modern seperti perpustakaan digital, laboratorium riset, asrama, dan rumah sakit pendidikan, serta memiliki jaringan kerja sama global dengan puluhan perguruan tinggi luar negeri. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3216724821,
+          -7.8108148744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Nadhatul Ulama (UNU)",
+        "foto": "https://www.unu-jogja.ac.id/wp-content/uploads/2025/01/Watermark_DJI_0678-Enhanced-NR-Edit-scaled.jpg.webp",
+        "alamat": "Jl. Ringroad Barat, Dowangan, Banyuraden, Gamping, Sleman, Yogyakarta",
+        "telp": "(0274) 419769",
+        "website": "unu-jogja.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Nahdlatul Ulama (UNU) Yogyakarta adalah perguruan tinggi Islam swasta di bawah naungan PBNU yang mulai resmi beroperasi sejak 2017.  Kampus barunya, berdiri di atas lahan seluas sekitar 7.478 m² dengan bangunan modern sembilan lantai seluas 16.769 m², dilengkapi fasilitas lengkap seperti ruang kelas, laboratorium, perpustakaan, auditorium, masjid, roof garden, dan area komunal, serta menerapkan konsep green building dan aksesibilitas untuk penyandang disabilitas. Dengan visi menjadi “leading professional hub university” yang profesional, inovatif, digital-savvy, kolaboratif, dan berwawasan global, UNU Jogja menyelenggarakan pendidikan di lima fakultas dengan 11 program studi, bersinergi erat dengan industri dan masyarakat untuk mencetak lulusan siap kerja dan berjiwa enterpreneur serta berkarakter sociopreneur. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3304989985,
+          -7.7877862050
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas PGRI Yogyakarta",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_q-XSgJO03ps18YJIMuF1rARwZ5C2_s41A&s",
+        "alamat": "Jl. PGRI I Sonosewu No. 117 Daerah Istimewa Yogyakarta 55182 Indonesia",
+        "telp": "(0274) 376808",
+        "website": "upy.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas PGRI Yogyakarta (UPY) merupakan perguruan tinggi swasta yang awalnya berdiri sebagai IKIP PGRI Yogyakarta pada 11 Desember 1962.  Sejak awal berdiri, kampus ini fokus pada pengembangan pendidikan dan keguruan, dengan beberapa kali mengalami perpindahan lokasi sebelum akhirnya menetap di kawasan Sonosewu, Bantul pada tahun 1984.  Melalui perjalanan panjang dan pengembangan berbagai program studi, IKIP PGRI Yogyakarta resmi bertransformasi menjadi Universitas PGRI Yogyakarta pada tahun 1997 berdasarkan SK Dirjen Dikti No. 180/DIKTI/KEP/1997. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3411022837,
+          -7.8063374288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Gadjah Mada",
+        "foto": "https://ugm.ac.id/wp-content/uploads/2023/04/About-Hero.jpg",
+        "alamat": "Bulaksumur Depok Sleman Regency Special Region of Yogyakarta 55281",
+        "telp": "(0274) 588688",
+        "website": "ugm.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Universitas Gadjah Mada (UGM) adalah perguruan tinggi negeri tertua di Indonesia yang berdiri pada masa awal kemerdekaan dan lahir dari semangat perjuangan bangsa.  Diresmikan pada tahun 1949, UGM dibentuk dari penggabungan berbagai sekolah tinggi di Yogyakarta, Solo, dan Klaten.  Sebagai universitas nasional, UGM menjunjung tinggi nilai-nilai kebangsaan, kerakyatan, dan kebudayaan, terinspirasi oleh semangat Mahapatih Gadjah Mada dalam mempersatukan nusantara.  Kini, UGM berkembang menjadi institusi pendidikan terkemuka dengan 18 fakultas, satu sekolah pascasarjana, dan satu sekolah vokasi yang melayani ribuan mahasiswa dari seluruh Indonesia. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3780440264,
+          -7.7700272498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Teknologi Yogyakarta (UTY)",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsAO4pimaw1rbBJ8KYOP-rLUUFhT5ioURazA&s",
+        "alamat": "Jl. Siliwangi, Jombor Lor, Sendangadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55285",
+        "telp": "(0274) 623310",
+        "website": "uty.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Teknologi Yogyakarta (UTY) adalah perguruan tinggi swasta di Daerah Istimewa Yogyakarta yang berdiri pada 23 Oktober 2002 melalui penggabungan tiga institusi, yaitu STIEYO, ABAYO, dan STMIK Dharma Bangsa.  Diselenggarakan oleh Yayasan Dharma Bhakti IPTEK, UTY dikenal sebagai salah satu universitas swasta unggulan dengan komitmen pada pengembangan ilmu pengetahuan, teknologi, dan bahasa. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.355436782754,
+          -7.7474643546569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Politeknik ATK Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqY_pMbYJL4zNvjiD61eTpkmPcoSeOxN0eyXnkJPbCEzw5AfrPcoLO2ejWVvcvcnrBbQ9bEU9Ffj5KL73rHIrEVG28jPVnDRFrqAsBogKt2luXJHRtu6JQbek7Ap6tI9cry4k3D=w426-h240-k-no",
+        "alamat": "Tarudan, Bangunharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55188",
+        "telp": "(0274) 383727",
+        "website": "politeknik.atk.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Politeknik ATK Yogyakarta adalah perguruan tinggi vokasi di bawah Kementerian Perindustrian yang berfokus pada pendidikan dan pelatihan di bidang teknologi kulit, produk kulit, dan fashion.  Terletak di Yogyakarta, kampus ini menawarkan program studi terapan yang mendukung pengembangan industri kreatif berbasis kulit di Indonesia. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37059193484232,
+          -7.843172931829872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akademi Komunitas Negeri Seni dan Budaya Yogyakarta",
+        "foto": "https://aknyogya.ac.id/assets/images/posts/1673407593-IMG_20230111_1015181.jpg",
+        "alamat": "Jl. Parangtritis No.364, Pandes, Panggungharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55188",
+        "telp": "(0274) 774289",
+        "website": "aknyogya.ac.id",
+        "status": "Negeri",
+        "Deskripsi": "Akademi Komunitas Negeri Seni dan Budaya Yogyakarta merupakan perguruan tinggi negeri yang menyelenggarakan pendidikan vokasi di bidang seni dan budaya pada jenjang Diploma 1 hingga Diploma 2.  Didirikan atas inisiatif Gubernur DIY, Sri Sultan Hamengku Buwono X, akademi ini mulai beroperasi pada tahun akademik 2014/2015 dan berada di bawah pembinaan Institut Seni Indonesia (ISI) Yogyakarta serta Dinas Pendidikan, Pemuda, dan Olahraga DIY. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.361911544954,
+          -7.84317967316288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Respati Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/geougc-cs/AB3l90DoR3JZhVNhGm9YhQjVyJLx-UNjOCwy2EYvRk7QWEH2qSXcPkYFm8beLDhmECLhRcYC63E6s_vv9xy7MtT1lMaB8cg7_y_SIIaI98td47ystUB9-qT0-SwQqjg5iG0yDJwcB9_s=w404-h303-p",
+        "alamat": "Jl. Laksda Adisucipto, Ambarukmo, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "telp": "(0274)488781",
+        "website": "respati.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Universitas Respati Yogyakarta (UNRIYO) didirikan pada 22 Desember 2008 melalui penggabungan STTI dan STIKES Respati Yogyakarta, dan kini menyelenggarakan 17 program studi mulai dari diploma, sarjana hingga pascasarjana, termasuk Program Magister Kesehatan Masyarakat yang dilaksanakan sejak semester genap 2023/2024.  Berlokasi di Jl. Laksda Adisucipto KM 6,5, Sleman, kampus ini memiliki fasilitas modern seperti ruang kuliah berkapasitas hingga 100 orang dilengkapi LCD dan jaringan Wi‑Fi, laboratorium multifungsi, klinik kesehatan, sport hall, kantin, mushola, dan asrama untuk mahasiswi. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.406713655918,
+          -7.78184961855747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Tinggi Ilmu Tarbiyah Madani Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfyX3rVUbc9oPxmxn_h2hAf6IRURWfvcx3TNQkm6Yz873d6_zlD3Ah-PaxXzAR4jXKPHNUb0GYFrY4ywsYOkRB8Zxje9EXCl-uW7Jy2s6A5z9-O5TZ8FlOgORx6LcC0g89Vldf=w408-h306-k-no",
+        "alamat": "Jl. Wonosari Jl. Karanggayam No.KM. 10, Karang Gayam, Sitimulyo, Kec. Piyungan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55792",
+        "telp": "-",
+        "website": "stitmadani.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "STITMA Yogyakarta didirikan oleh Yayasan Majelis At-Turots Al-Islamy sebagai pengembangan dari Pondok Pesantren Islamic Centre Bin Baz (ICBB) yang telah lama berkiprah dalam pendidikan formal dan non-formal.  Berlokasi strategis di pinggiran Yogyakarta, STITMA hadir untuk mencetak generasi intelektual Muslim yang unggul secara akademik dan berakhlak mulia.  Dengan dukungan fasilitas yang memadai dan pengalaman lebih dari satu dekade dalam dunia pendidikan, STITMA menawarkan Program Studi Pendidikan Agama Islam (PAI) dan Pendidikan Bahasa Arab (PBA), serta terbuka bagi lulusan pesantren maupun sekolah umum dari seluruh Indonesia. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.442944718457,
+          -7.84361689590405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Tinggi Ekonomi Islam (STEI Yogyakarta)",
+        "foto": "https://steijogja.info/images/media/69WhatsApp%20Image%202024-02-12%20at%2017.20.54(1).webp",
+        "alamat": "Jl. Sukonandi No.11, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166",
+        "telp": "(0274) 562927",
+        "website": "steijogja.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "STEI Yogyakarta merupakan perguruan tinggi yang berfokus pada pendidikan Manajemen Perbankan Syariah.  Berdiri sejak 13 Mei 1996, kampus ini awalnya bernama STIS Yogyakarta sebelum bertransformasi menjadi STEI Yogyakarta pada April 2005.  Pengakuan resmi diperoleh dari Departemen Agama RI pada 22 Desember 1997, dan akreditasi pertama kali diraih pada tahun 2003 dengan predikat B untuk kedua program studinya. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.381418455411,
+          -7.79912006285492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Tinggi Ilmu Manajemen YKPN",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4g7oIXadzv8VI57mOyZwox_BAbaHfIAOmMnAVVo0M-MtB3qSCED05__1hCOqt457YuBmcVyl9JIwI2Bd_cuQK4TRPQIybPJVL42qNwceDQPbcvfzgAVR-D_G0LmcY5DAezA8Vtg=w427-h240-k-no",
+        "alamat": "Jl. Palagan Tentara Pelajar No.KM. 7, Mudal, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581",
+        "telp": "(0274) 885700",
+        "website": "stimykpn.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "STIM YKPN (Sekolah Tinggi Ilmu Manajemen Yayasan Keluarga Pahlawan Negara) Yogyakarta, merupakan kelanjutan dari AMP YKPN yang berdiri sejak 1 Januari 1976 dan berubah status menjadi sekolah tinggi pada 1 Januari 2006.  Kini menyediakan dua program studi D3 dan S1 Manajemen yang seluruhnya terakreditasi B.  Berlokasi strategis di Jl. Palagan Tentara Pelajar Km 7, kampus ini memiliki lingkungan asri, fasilitas modern seperti ruang kuliah ber-AC dengan Wi‑Fi dan LCD projector, dosen bergelar S2/S3, serta pembekalan sertifikasi profesi (digital marketing, perpajakan, ekspor-impor, perbankan, SDM) untuk mencetak lulusan siap kerja. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37673807015,
+          -7.73787336885658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institut Teknologi Yogyakarta",
+        "foto": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphxTnrVhvUEG5NN6gRIBEoN7ihk5C7EMhAPEBrEs-U6Hc2UBzA8RFKeKGHstrdMHBxvo85T8neHR_5Y_zGiLWPWZZdMYsXiISM594HmMWZGB_Zjvvq1KFW0eFYxQ5ZW94hlqGC6A=w408-h306-k-no",
+        "alamat": "Jl. Raya Janti Jl. Gedongkuning No.KM, RW.4, Wonocatur, Banguntapan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55198",
+        "telp": "-",
+        "website": "ity.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Institut Teknologi Yogyakarta (ITY) merupakan perguruan tinggi yang berfokus pada pengembangan teknologi ramah lingkungan (green technology) dalam menjawab tantangan industri modern.  Didirikan pada tahun 1983 sebagai Sekolah Tinggi Teknik Lingkungan (STTL), ITY hadir di tengah semangat Indonesia menuju negara industri, dengan kesadaran akan pentingnya menjaga kualitas lingkungan hidup.  Berbekal dukungan para pakar dari berbagai universitas ternama dan legalitas resmi sejak 1986, STTL kemudian berkembang menjadi ITY pada tahun 2014.  ITY berkomitmen mencetak sumber daya manusia inovatif yang menguasai teknologi kreatif untuk keberlanjutan lingkungan. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.402212133808,
+          -7.7997294326027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institut Pertanian Stiper",
+        "foto": "https://lh3.googleusercontent.com/p/AF1QipN6F2AJgcSCsxel1POLg5PWKv_lV8nJGezmSqiM=w768-h240-k-no",
+        "alamat": "Jl. Nangka II, Krodan, Maguwoharjo, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "telp": "-",
+        "website": "instiperjogja.ac.id",
+        "status": "Swasta",
+        "Deskripsi": "Institut Pertanian Stiper (Instiper) Yogyakarta adalah perguruan tinggi yang berfokus pada pengembangan bidang perkebunan, kehutanan, dan teknologi pertanian.  Didirikan pada 10 Desember 1958, Instiper berkomitmen mencetak sumber daya manusia yang profesional dan berdaya saing tinggi, khususnya dalam mendukung sektor agribisnis nasional.  Dengan sistem pendidikan jenjang S-1 dan S-2, Instiper menanamkan nilai kewirausahaan dan tanggung jawab sosial kepada para mahasiswanya untuk menjawab tantangan masa depan bangsa. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.424608199422,
+          -7.76126594919653
+        ]
+      }
+    }
+  ]
+}
